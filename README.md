@@ -1,3 +1,4 @@
 # Dynamic_Programming
 ### Introduction to Dynamic Programming 
-- some excersices from leetcode
+- exercises from leetcode
+
